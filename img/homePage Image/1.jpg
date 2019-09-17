@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+	<head>
+		<!-- page description -->
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <meta name="description" content="Landmark Waterview Website">
+	    <meta name="author" content="C.T. Ashimole">
+	    <meta name="keywords" content="mixed used building, lagos, victoria island, oceanview, ocean, sea, residential, towers, landmark, landmark waterview, landmark village, landmark africa, hard rock cafe, shiro, landmark centre, nigeria, real estate, condominium, condos, apartments, rooms, hotel, rent">
+
+	    <!-- page title -->
+		<title>Victoria Island | Landmark Waterview</title>
+		<!-- icon -->
+		<link rel="shortcut icon" href="img/icons/favicon.ico">
+		<!-- plugins' css -->
+		<link rel="stylesheet" href="css/plugins.css">
+		<!-- leaflet css -->
+		<link rel="stylesheet" type="text/css" href="css/leaflet.css">
+		<!-- google fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Oxygen|Poiret+One|Cinzel" rel="stylesheet">
+		<!-- main css file -->
+		<link rel="stylesheet" href="css/main.css">
+		<!-- modernizr -->
+		<script src="js/lib/modernizr-2.6.2.min.js"></script>
+	</head>
+
+	<body>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92594565-2', 'auto');
+  ga('send', 'pageview');
+
+</script>		<!-- MAIN_WRAPPER -->
+		<div class="main-wrapper">
+
+			<!-- HEADER -->
+			<header id="header" class="fixed has-border">
+				<!-- LOGO -->
+				<!-- <a href="index.php" class="logo">
+					Landmark Waterview
+					<img src="img/logo.png" class="logo-dark" alt="">
+					<img src="img/logo-light.png" class="logo-light" alt="">
+				</a> -->
+				<!-- MOBILE MENU ICON -->
+				<a href="#" class="mob-menu"><i class="fa fa-bars"></i></a>
+				<!-- MENU -->
+				<nav>
+					<ul class="main-menu">
+						<li>
+							<div class="logo">
+								<a href="home">
+									<img src="img/icons/favicon.ico" alt="Logo" title="Landmark Waterview">
+								</a>
+							</div>
+						</li>
+						<li >
+							<a href="about-waterview">about waterview</a>
+						</li>
+						<li >
+							<a href="landmark-village-lifestyle">landmark village lifestyle</a>
+						</li>
+						<li >
+							<a href="facilities">facilities</a>
+						</li>
+						<li class="active">
+							<a href="victoria-island">victoria island</a>
+						</li>
+						<li >
+							<a href="floor-plans">floor plans</a>
+						</li>
+						<li >
+							<a href="about-us">about us</a>
+						</li>
+						<li >
+							<a href="press">press</a>
+						</li>
+						<li >
+							<a href="videos">Videos</a>
+						</li>
+						<li >
+							<a href="contact-us">contact</a>
+						</li>
+					</ul>
+				</nav>
+			</header>
+			<!-- /HEADER -->
+			<div class="mt100"></div>
+
+			<!-- SPLIT BLOCK WITH SLIDER -->
+			<div class="container text-center">
+				<h3 class="main title">Victoria Island</h3>
+				<h5 class="tagline">The Heart of Lagos Urban Living</h5>
+				<p class="separator"></p>
+			</div>
+
+			<div class="mb50"></div>
+
+			<div class="container">
+				<div class="col-md-8 p0">
+					<!-- IMAGE CAROUSEL -->
+					<div class="owl-slider vi-slideshow">
+						<img src="img/victoria-island/waterview-aerial-10.jpg" alt="">
+						<img src="img/victoria-island/giditraffic-victoria-island.jpg" alt="">
+						<img src="img/victoria-island/lekki-ikoyi-bridge.jpg" alt="">
+						<img src="img/victoria-island/victoria-island-aerial.jpg" alt="">
+						<img src="img/victoria-island/victoria-island-shoreline.jpg" alt="">
+					</div>
+					<!-- /IMAGE CAROUSEL -->
+				</div>
+				<div class="col-md-4 pt50 pb50">
+					<div class="vcenter-outer pt50 pb50">
+						<div class="vcenter-inner">
+							<p class="">Landmark Waterview Apartments is a rare opportunity to enjoy the convenience of living in the mixed use Landmark Village community as well as a cosmopolitan lifestyle that brings you closer to the wider Victoria Island neighborhood.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /SPLIT BLOCK WITH SLIDER -->
+
+			<div class="mb30"></div>
+
+			<!-- TITLE -->
+			<div class="container">
+				<div class="col-md-12">
+					<div class="text-center p50">
+						<p class="">Victoria Island is the main business and financial centre in Lagos, and one of the most sought after places to live. The vibrant city centre is also known as the retail and leisure hub of Lagos with a variety of international hotels, restaurants, malls bars and leisure facilities.</p>
+					</div>
+				</div>
+			</div>
+			<!-- /TITLE -->
+
+			<div class="mb30"></div>
+
+			<!-- LIST -->
+			<div class="container">
+				<div class="text-center">
+					<h3 class="title">Key Locations</h3>
+					<p class="separator"></p>
+				</div>
+				<div class="map-wrap">
+					<div class="view-fullscreen-link-wrap">
+						<a href="#" id="view-map-fullscreen-link">View Fullscreen</a>
+					</div>
+
+					<div class="col-md-12">
+						<div class="map-key" id="map-key">
+							<div class="col-md-3 col-sm-6 col">
+								<h4>Restaurant</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="1151" data-y="5791" data-pin="restaurant">Johnny Rockets</a></li>
+									<li><a href="#" class="key-link" data-x="1099" data-y="4899" data-pin="restaurant">Pearl Gardens</a></li>
+									<li><a href="#" class="key-link" data-x="2771" data-y="2987" data-pin="restaurant">Indigo</a></li>
+									<li><a href="#" class="key-link" data-x="5127" data-y="4003" data-pin="restaurant">Domino's Pizza</a></li>
+									<li><a href="#" class="key-link" data-x="4863" data-y="4935" data-pin="restaurant">Maroccaine</a></li>
+									<li><a href="#" class="key-link" data-x="2247" data-y="2335" data-pin="restaurant">Prime Chinese</a></li>
+									<li><a href="#" class="key-link" data-x="5791" data-y="5843" data-pin="restaurant">Shiro Restaurant</a></li>
+									<li><a href="#" class="key-link" data-x="5899" data-y="5875" data-pin="restaurant">Hard Rock Cafe</a></li>
+									<li><a href="#" class="key-link" data-x="995" data-y="5555" data-pin="restaurant">Ocean Basket</a></li>
+									<li><a href="#" class="key-link" data-x="3115" data-y="3315" data-pin="restaurant">Imperial Place</a></li>
+									<li><a href="#" class="key-link" data-x="2955" data-y="4451" data-pin="restaurant">The Long Bar</a></li>
+									<li><a href="#" class="key-link" data-x="3607" data-y="3319" data-pin="restaurant">Wan Tan Fusion</a></li>
+									<li><a href="#" class="key-link" data-x="2255" data-y="1999" data-pin="restaurant">Villa Medici</a></li>
+									<li><a href="#" class="key-link" data-x="1651" data-y="4359" data-pin="restaurant">Asian Villa</a></li>
+									<li><a href="#" class="key-link" data-x="943" data-y="4647" data-pin="restaurant">Bottles</a></li>
+									<li><a href="#" class="key-link" data-x="4335" data-y="999" data-pin="restaurant">Cactus</a></li>
+									<li><a href="#" class="key-link" data-x="4891" data-y="3991" data-pin="restaurant">Coors Restaurant &amp; Lounge</a></li>
+								</ul>
+							</div>
+							<div class="col-md-3 col-sm-6 col">
+								<h4>Hotels</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="5959" data-y="2659" data-pin="hotel">Four Points Sheraton</a></li>
+									<li><a href="#" class="key-link" data-x="4679" data-y="5295" data-pin="hotel">Protea Hotels Kuramo Waters</a></li>
+									<li><a href="#" class="key-link" data-x="3775" data-y="4615" data-pin="hotel">Signature Suites</a></li>
+									<li><a href="#" class="key-link" data-x="3115" data-y="4811" data-pin="hotel">Hotel Bon Voyage</a></li>
+									<li><a href="#" class="key-link" data-x="2067" data-y="4607" data-pin="hotel">Eko Hotel &amp; Suites</a></li>
+									<li><a href="#" class="key-link" data-x="1819" data-y="3543" data-pin="hotel">Protea Hotel VI</a></li>
+									<li><a href="#" class="key-link" data-x="4323" data-y="3383" data-pin="hotel">VCP Hotel</a></li>
+									<li><a href="#" class="key-link" data-x="947" data-y="5811" data-pin="hotel">The Avenue Suites</a></li>
+								</ul>
+								<h4>Beaches/Sailing</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="627" data-y="6347" data-pin="beach">Bar Beach</a></li>
+									<li><a href="#" class="key-link" data-x="2211" data-y="5907" data-pin="beach">Kuramo Beach</a></li>
+									<li><a href="#" class="key-link" data-x="5167" data-y="5839" data-pin="beach">Oniru Private Beach</a></li>
+								</ul>
+								<h4>Nightlife</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="4467" data-y="1387" data-pin="nightlife">Club Quilox</a></li>
+									<li><a href="#" class="key-link" data-x="255" data-y="4171" data-pin="nightlife">SIP Lounge</a></li>
+								</ul>
+							</div>
+							<div class="col-md-3 col-sm-6 col">
+								<h4>Shopping</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="2575" data-y="2255" data-pin="shopping">Dream Plaza</a></li>
+									<li><a href="#" class="key-link" data-x="7347" data-y="2043" data-pin="shopping">Palms Shopping Mall</a></li>
+								</ul>
+								<h4>Places of Worship</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="5791" data-y="4575" data-pin="worship">The Waterbrook Church</a></li>
+									<li><a href="#" class="key-link" data-x="5779" data-y="3463" data-pin="worship">Redeemed Christian Church of God</a></li>
+									<li><a href="#" class="key-link" data-x="8015" data-y="3611" data-pin="worship">Oniru Central Mosque</a></li>
+									<li><a href="#" class="key-link" data-x="3143" data-y="1695" data-pin="worship">Catholic Church of the Resurrection</a></li>
+								</ul>
+								<h4>Schools</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="6815" data-y="3871" data-pin="school">Buttercups School</a></li>
+									<li><a href="#" class="key-link" data-x="3419" data-y="1695" data-pin="school">American International School</a></li>
+									<li><a href="#" class="key-link" data-x="7091" data-y="2415" data-pin="school">British International School</a></li>
+								</ul>
+								<h4>Parks</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="527" data-y="1195" data-pin="park">Muri Okunola Park</a></li>
+								</ul>
+							</div>
+							<div class="col-md-3 col-sm-6 col">
+								<h4>Leisure Centres</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="6043" data-y="5923" data-pin="leisure">Landmark Event Centre</a></li>
+									<li><a href="#" class="key-link" data-x="1003" data-y="5155" data-pin="leisure">Terra Kulture</a></li>
+									<li><a href="#" class="key-link" data-x="6511" data-y="2323" data-pin="leisure">Get Arena</a></li>
+								</ul>
+								<h4>Corporate Offices</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="6779" data-y="5979" data-pin="corporate">Landmark Towers</a></li>
+									<li><a href="#" class="key-link" data-x="3863" data-y="2543" data-pin="corporate">KPMG HQ</a></li>
+									<li><a href="#" class="key-link" data-x="6963" data-y="5979" data-pin="corporate">PWC HQ</a></li>
+									<li><a href="#" class="key-link" data-x="3195" data-y="3531" data-pin="corporate">Zenith Bank HQ</a></li>
+									<li><a href="#" class="key-link" data-x="4871" data-y="1719" data-pin="corporate">Exxon Mobile HQ</a></li>
+								</ul>
+								<h4>Hospital</h4>
+								<ul>
+									<li><a href="#" class="key-link" data-x="1647" data-y="2887" data-pin="hospital">Ave Maria Hospital</a></li>
+									<li><a href="#" class="key-link" data-x="4599" data-y="4003" data-pin="hospital">Roding Medical Centre</a></li>
+									<li><a href="#" class="key-link" data-x="4615" data-y="4851" data-pin="hospital">Pediatric Partners Clinic</a></li>
+									<li><a href="#" class="key-link" data-x="6839" data-y="3259" data-pin="hospital">Ave Maria II Hospital</a></li>
+								</ul>
+							</div>
+							<div style="clear: both;"></div>
+						</div>
+
+						<div class="col-md-12">
+							<div class="map-canvas-wrap" id="map-canvas-wrap">
+								<div id="map-canvas" class="map-canvas"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="mb100"></div>
+
+			<!-- CTA -->
+			<div class="container fullwidth overlay-dark-2x text-light text-center pt50 pb50" data-background="img/bg/bg-ocean3.jpg">
+				<h3 class="title">Want To Know More?</h3>
+				<a href="contact-us" class="button light outline mt10">Get In Touch</a>
+			</div>
+			<!-- /CTA -->
+
+			<!-- FOOTER -->
+			<footer id="footer" class="has-border">
+				<!-- FOOTER LINKS -->
+				<div class="footer-links ">
+					<ul>
+						<li>&copy; 2019 - <a href="http://www.landmarkafrica.com" target="_blank">Landmark Africa</a></li>
+						<li><a href="https://www.facebook.com/Landmarkoffices" target="_blank"><i class="fa fa-facebook-square" title="facebook"></i></a></li>
+						<li><a href="https://twitter.com/landmarkafrica" target="_blank"><i class="fa fa-twitter-square" title="twitter"></i></a></li>
+						<li><a href="https://www.instagram.com/landmarkafrica" target="_blank"><i class="fa fa-instagram" title="instagram"></i></a></li>
+						<li>Phone: +234 805 333 3333</li>
+						<li>E-Mail: waterview@landmarkafrica.com</li>					</ul>
+				</div>
+
+							</footer>
+			<!-- /FOOTER -->
+
+		</div>	
+		<!-- /MAIN-WRAPPER -->
+				
+		<!-- main js -->
+		<script src="js/lib/jquery.min.js"></script>
+		<script src="js/lib/moment.js"></script>
+		<script src="js/lib/unslider-min.js"></script>
+		<script>
+			jQuery(document).ready(function($) {
+				$('.my-slider').unslider({
+					autoplay: true,
+					arrows: true,
+					infinity: true,
+					animation: 'vertical',
+					delay: 20000,
+					nav: false,
+					speed: 3000
+				});
+			});
+		</script>
+		<script>
+			$(function () {
+			  $('[data-toggle="popover"]').popover()
+			})
+		</script>
+		<script src="js/lib/scripts.js"></script>
+		<script src="js/lmv-leaflet-map.js"></script>
+		<script src="js/island-leaflet-map.js"></script>
+		<!-- main js -->
+		<script src="js/main.js"></script>
+	</body>
+</html>
