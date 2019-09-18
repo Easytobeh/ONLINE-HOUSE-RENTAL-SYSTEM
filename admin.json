@@ -1,7 +1,5 @@
 {
-
-    "adminCredentials":[
-        {"username": "admin", "password": "admin1234"}
-    ]
-
+  "user": [
+    { "id": 1, "username": "admin", "password": "admin1234" }
+  
 }
