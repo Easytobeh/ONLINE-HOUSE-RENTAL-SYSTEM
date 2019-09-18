@@ -1,9 +1,7 @@
 {
 
-    "adminList":[
-        {"username": "admni1", "password": "adminadmin"},
-        {"username": "admin2", "password": "adminadmin"}
+    "adminCredentials":[
+        {"username": "admin", "password": "admin1234"}
     ]
-    
 
 }
