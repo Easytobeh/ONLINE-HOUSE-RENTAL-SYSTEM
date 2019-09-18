@@ -26,13 +26,26 @@ $(function(){
     });
 
     $("#sign-in").on("click", function(){
-        window.location = "signIn.html";
+        window.location = "login.html";
     });
     
     $("#apartments").on("click", function(){
         window.location = "apartments.html";
     });
 
+    $("#agent").on("click", function(){
+        window.location = "agents.html";
+    });
+
+    // $.ajax({
+    //         method: 'GET',
+    //         url: 'http://localhost:8008/adminlist',
+    //         dataType: 'json'
+            
+
+    // }).done(function(data){
+    //     console.log(data);
+    // });
     
     
     
