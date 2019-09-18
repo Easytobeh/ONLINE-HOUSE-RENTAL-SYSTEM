@@ -6,7 +6,7 @@ $(function(){
         window.location = "index.html";
     });
     $("#learn-btn").on("click", function(){
-        alert("You clicked me");
+       
     });
 
     $("#our-team").on("click", function(){
@@ -37,15 +37,6 @@ $(function(){
         window.location = "agents.html";
     });
 
-    // $.ajax({
-    //         method: 'GET',
-    //         url: 'http://localhost:8008/adminlist',
-    //         dataType: 'json'
-            
-
-    // }).done(function(data){
-    //     console.log(data);
-    // });
     
     
     
